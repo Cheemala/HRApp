@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HRApp</string>
+    <string name="add_emp_text">Add Employee</string>
+    <string name="edit_emp_text">Edit Employee</string>
+    <string name="emp_delete_text">Employee deleted successfully</string>
+    <string name="em_eded_text">Employee added successfully</string>
+    <string name="em_update_text">Employee updated successfully</string>
+    <string name="valid_emp_details_warning_text">Please provide valid employee details</string>
+    <string name="emp_details_text">emp_details</string>
+    <string name="action_type_text">action_type</string>
+    <string name="selected_emp_data_text">selected_emp_data</string>
+    <string name="male_text">Male</string>
+    <string name="female_text">Female</string>
+</resources>
